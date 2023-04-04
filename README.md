@@ -9,6 +9,10 @@ Depois de 12 anos trabalhando com Infraestrutura, tentando me arriscar em outro 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drigoagnelli&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drigoagnelli&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Projeto TikTok Clone
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drigoagnelli&repo=jornadadev_tiktok&theme=highcontrast))](https://github.com/anuraghazra/github-readme-stats)
@@ -16,10 +20,6 @@ Depois de 12 anos trabalhando com Infraestrutura, tentando me arriscar em outro 
 ### Projeto Conversor de Moedas
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=drigoagnelli&repo=challenge_conversor_moedas&theme=highcontrast))](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens Utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drigoagnelli&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
 
