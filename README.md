@@ -23,8 +23,7 @@ Depois de 12 anos trabalhando com Infraestrutura, tentando me arriscar em outro 
 
 ### Contato
 
-[<img src="./linkedin_github.png" alt="Linkedin" height="30" target="_blank" >](www.linkedin.com/in/
-rodrigo-agnelli)
+[<img src="./linkedin_github.png" alt="Linkedin" height="30" >](www.linkedin.com/in/rodrigo-agnelli/)
 
 
 
